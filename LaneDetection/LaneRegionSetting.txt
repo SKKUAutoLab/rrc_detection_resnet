@@ -1,0 +1,58 @@
+1242
+0.52
+0.42
+0.1
+0.35
+0.6
+400
+800
+0.6
+75
+3
+4
+255
+255
+255
+50
+35
+25
+15
+15
+0.5
+0.5
+0.7
+0.8
+0
+------------------------
+
+int inpWidth; // set to non-positive value if not considered.
+float bevHeightOriginRate;
+float bevTopOriginRate;
+float bevBotOriginRate;
+float bevWidthMappingRate;
+float bevHeightMappingRate;
+int bevWidth;
+int bevHeight;
+
+float meanHistogramFindingRate;
+
+int minLenToFindSeedPoint;
+int edgeDetectionKernel;
+int numOfHistForGettingLanePoints;
+
+int outColorR;
+int outColorG;
+int outColorB;
+
+int checkRange1;
+int checkRange2;
+int checkRange3;
+int checkRange4;
+int checkRange5;
+
+float moment1;
+float moment2;
+float moment3;
+float moment4;
+
+int debug;

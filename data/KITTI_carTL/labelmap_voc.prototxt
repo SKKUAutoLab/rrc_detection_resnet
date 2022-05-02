@@ -1,0 +1,50 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Car"
+  label: 1
+  display_name: "Car"
+}
+item {
+  name: "Pedestrian"
+  label: 2
+  display_name: "Pedestrian"
+}
+item {
+  name: "Cyclist"
+  label: 3
+  display_name: "Cyclist"
+}
+item {
+  name: "HeadlightLeft"
+  label: 4
+  display_name: "HeadlightLeft"
+}
+item {
+  name: "HeadlightRight"
+  label: 5
+  display_name: "HeadlightRight"
+}
+item {
+  name: "TaillightLeft"
+  label: 6
+  display_name: "TaillightLeft"
+}
+item {
+  name: "TaillightRight"
+  label: 7
+  display_name: "TaillightRight"
+}
+item {
+  name: "StopLine"
+  label: 8
+  display_name: "StopLine"
+}
+item {
+  name: "RoadJunction"
+  label: 9
+  display_name: "RoadJunction"
+}

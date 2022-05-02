@@ -1,0 +1,10 @@
+/home/huyhung/tl_temp/input/
+/home/huyhung/tl_temp/lane/
+1
+1
+
+#1: Location of input folder
+#2: Location of output folder
+#3: Input type. 1: Image || 2: MP4 Video
+#4: Output type. 0 = Do nothing || 1: Image || 2: MP4 Video
+
